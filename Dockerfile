@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM daocloud.io/iamfaith/ubuntu
 
 # Install Python.
 RUN \
